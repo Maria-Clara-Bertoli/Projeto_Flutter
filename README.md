@@ -1,4 +1,4 @@
-# ⚙️📱 Estudos Sobre Shared Preferences com Flutter
+# ⚙️📱 Estudos Sobre Shared Preferences Com Flutter
 
 Este repositório contém a implementação de um **aplicativo desenvolvido com o framework Flutter**, com o objetivo de **estudar o conceito de Shared Preferences**.
 
